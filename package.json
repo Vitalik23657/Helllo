@@ -1,12 +1,16 @@
 {
   "name": "helllo",
   "version": "1.0.0",
-  "description": "Your project description",
+  "description": "A simple project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "author": "Your name",
-  "license": "ISC"
+  "keywords": [],
+  "author": "Vitalik23657",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "dependencies": {}
 }
-

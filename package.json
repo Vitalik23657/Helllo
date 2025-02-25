@@ -14,3 +14,6 @@
   },
   "dependencies": {}
 }
+"jest": {
+  "testMatch": ["**/?(*.)+(spec|test).[jt]s?(x)"]
+}
